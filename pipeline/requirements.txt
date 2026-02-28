@@ -1,0 +1,4 @@
+youtube-transcript-api
+groq
+requests
+python-dotenv
