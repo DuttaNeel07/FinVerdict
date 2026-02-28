@@ -36,9 +36,11 @@ export default function DeepDive({ creator, onBack }) {
 
       {/* Back button */}
       <button onClick={onBack}
-        style={{ background:'transparent', border:'none', color:'var(--muted)',
+        style={{ background:'transparent', border:'1px solid var(--border)', color:'var(--text)',
           cursor:'pointer', marginBottom:'24px', fontFamily:'var(--font-mono)',
-          fontSize:'13px' }}>
+          fontSize:'13px', padding:'10px 20px', display:'flex', alignItems:'center', gap:'8px' }}
+        onMouseEnter={e => { e.currentTarget.style.borderColor = 'var(--green)'; e.currentTarget.style.color = 'var(--green)'; }}
+        onMouseLeave={e => { e.currentTarget.style.borderColor = 'var(--border)'; e.currentTarget.style.color = 'var(--text)'; }}>
         ← BACK TO LEADERBOARD
       </button>
 

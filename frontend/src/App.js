@@ -13,8 +13,8 @@ export default function App() {
 
   useEffect(() => {
     axios.get(API_BASE + '/api/leaderboard')
-      .then(res => { setCreators(res.data); setLoading(false); })
-      .catch(() => { setCreators(MOCK_DATA); setLoading(false); });
+      .then(res => { setCreators(res.data.sort((a,b) => b.overall_accuracy_score - a.overall_accuracy_score)); setLoading(false); })
+      .catch(() => { setCreators([...MOCK_DATA].sort((a,b) => b.overall_accuracy_score - a.overall_accuracy_score)); setLoading(false); });
   }, []);
 
   if (loading) return (
