@@ -4,7 +4,6 @@ import { API_BASE } from './config';
 import { MOCK_DATA } from './mockData';
 import Leaderboard from './components/Leaderboard';
 import DeepDive from './components/DeepDive';
-import AnalyzeBar from './components/AnalyzeBar';
 
 export default function App() {
   const [creators, setCreators] = useState([]);
@@ -26,7 +25,6 @@ export default function App() {
 
   return (
     <div style={{ minHeight:'100vh', background:'var(--bg)' }}>
-      <AnalyzeBar />
       {selected
         ? <DeepDive creator={selected} onBack={() => setSelected(null)} />
         : <Leaderboard creators={creators} onSelect={setSelected} />
