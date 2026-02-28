@@ -1,0 +1,80 @@
+[
+  {
+    "creator_id": "akshat_shrivastava",
+    "creator_name": "Akshat Shrivastava",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "rachana_ranade",
+    "creator_name": "CA Rachana Ranade",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "pranjal_kamra",
+    "creator_name": "Pranjal Kamra",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "ankur_warikoo",
+    "creator_name": "Ankur Warikoo",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "vivek_bajaj",
+    "creator_name": "Vivek Bajaj",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "shankar_nath",
+    "creator_name": "Shankar Nath",
+    "overall_accuracy_score": 0,
+    "total_predictions": 0,
+    "category_scores": {
+      "stocks": 0,
+      "crypto": 0,
+      "index": 0,
+      "macro": 0
+    },
+    "predictions": []
+  }
+]

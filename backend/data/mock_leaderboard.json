@@ -1,0 +1,174 @@
+[
+  {
+    "creator_id": "akshat_shrivastava",
+    "creator_name": "Akshat Shrivastava",
+    "overall_accuracy_score": 61,
+    "total_predictions": 34,
+    "category_scores": {
+      "stocks": 71,
+      "crypto": 43,
+      "macro": 60,
+      "index": 68
+    },
+    "predictions": [
+      {
+        "prediction_id": "akshat_001",
+        "video_url": "https://youtube.com/watch?v=mock1",
+        "video_title": "My 2023 Market Predictions",
+        "video_date": "2023-01-15",
+        "timestamp_in_video": "04:32",
+        "exact_quote": "Nifty will touch 22,000 by December 2023",
+        "asset_name": "Nifty 50",
+        "asset_type": "index",
+        "predicted_direction": "up",
+        "predicted_value": 22000,
+        "predicted_by_date": "2023-12-31",
+        "confidence_language": "hard_claim",
+        "actual_value": 21200,
+        "actual_direction": "up",
+        "price_on_prediction_date": 18500,
+        "accuracy_score": 72,
+        "verdict": "Directionally correct, missed target by 3.8%",
+        "failure_reason": null,
+        "status": "verified",
+        "has_disclaimer": true,
+        "category": "index"
+      },
+      {
+        "prediction_id": "akshat_002",
+        "video_url": "https://youtube.com/watch?v=mock2",
+        "video_title": "Crypto Crash Coming?",
+        "video_date": "2022-11-10",
+        "timestamp_in_video": "08:15",
+        "exact_quote": "Bitcoin will fall to 10k by next month",
+        "asset_name": "Bitcoin",
+        "asset_type": "crypto",
+        "predicted_direction": "down",
+        "predicted_value": 10000,
+        "predicted_by_date": "2022-12-10",
+        "confidence_language": "hard_claim",
+        "actual_value": 17000,
+        "actual_direction": "up",
+        "price_on_prediction_date": 16000,
+        "accuracy_score": 35,
+        "verdict": "Got direction wrong, missed target heavily",
+        "failure_reason": "Direction wrong",
+        "status": "verified",
+        "has_disclaimer": false,
+        "category": "crypto"
+      },
+      {
+        "prediction_id": "akshat_003",
+        "video_url": "https://youtube.com/watch?v=mock3",
+        "video_title": "Best stocks to buy now",
+        "video_date": "2023-05-01",
+        "timestamp_in_video": "02:10",
+        "exact_quote": "Reliance should see a slight uptick",
+        "asset_name": "Reliance",
+        "asset_type": "stock",
+        "predicted_direction": "up",
+        "predicted_value": null,
+        "predicted_by_date": null,
+        "confidence_language": "hedged",
+        "actual_value": 2500,
+        "actual_direction": "up",
+        "price_on_prediction_date": 2400,
+        "accuracy_score": 75,
+        "verdict": "Directionally correct, moderate gain achieved",
+        "failure_reason": null,
+        "status": "verified",
+        "has_disclaimer": true,
+        "category": "stocks"
+      }
+    ]
+  },
+  {
+    "creator_id": "rachana_ranade",
+    "creator_name": "CA Rachana Ranade",
+    "overall_accuracy_score": 70,
+    "total_predictions": 12,
+    "category_scores": {
+      "stocks": 74,
+      "crypto": 50,
+      "macro": 65,
+      "index": 70
+    },
+    "predictions": [
+      {
+        "prediction_id": "rachana_001",
+        "video_url": "https://youtube.com/watch?v=mock4",
+        "video_title": "Top Stocks 2023",
+        "video_date": "2023-01-05",
+        "timestamp_in_video": "01:20",
+        "exact_quote": "HDFC Bank looks like an excellent buy for long term",
+        "asset_name": "HDFC Bank",
+        "asset_type": "stock",
+        "predicted_direction": "up",
+        "predicted_value": null,
+        "predicted_by_date": null,
+        "confidence_language": "moderate",
+        "actual_value": 1600,
+        "actual_direction": "up",
+        "price_on_prediction_date": 1400,
+        "accuracy_score": 70,
+        "verdict": "Directionally correct",
+        "failure_reason": null,
+        "status": "verified",
+        "has_disclaimer": true,
+        "category": "stocks"
+      }
+    ]
+  },
+  {
+    "creator_id": "pranjal_kamra",
+    "creator_name": "Pranjal Kamra",
+    "overall_accuracy_score": 65,
+    "total_predictions": 18,
+    "category_scores": {
+      "stocks": 68,
+      "crypto": 40,
+      "macro": 55,
+      "index": 66
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "ankur_warikoo",
+    "creator_name": "Ankur Warikoo",
+    "overall_accuracy_score": 58,
+    "total_predictions": 22,
+    "category_scores": {
+      "stocks": 60,
+      "crypto": 55,
+      "macro": 50,
+      "index": 62
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "vivek_bajaj",
+    "creator_name": "Vivek Bajaj",
+    "overall_accuracy_score": 72,
+    "total_predictions": 15,
+    "category_scores": {
+      "stocks": 75,
+      "crypto": 0,
+      "macro": 68,
+      "index": 70
+    },
+    "predictions": []
+  },
+  {
+    "creator_id": "shankar_nath",
+    "creator_name": "Shankar Nath",
+    "overall_accuracy_score": 68,
+    "total_predictions": 20,
+    "category_scores": {
+      "stocks": 70,
+      "crypto": 0,
+      "macro": 65,
+      "index": 68
+    },
+    "predictions": []
+  }
+]

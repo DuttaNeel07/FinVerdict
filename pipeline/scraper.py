@@ -6,12 +6,11 @@ CREATORS = {
   "akshat_shrivastava": {
     "name": "Akshat Shrivastava",
     "videos": [
-      {"url": "https://youtube.com/watch?v=oV8s2Z2Jg4o", "title": "2023 Predictions", "date": "2023-01-10"},
-      {"url": "https://youtube.com/watch?v=Vz80a-P32XQ", "title": "Crypto Predictions", "date": "2021-12-10"}
+      {"url": "https://youtube.com/watch?v=1bMACbYhK7c", "title": "2023 Predictions", "date": "2022-12-27"}
     ]
   },
   "rachana_ranade": { "name": "CA Rachana Ranade", "videos": [
-      {"url": "https://youtube.com/watch?v=68o1J-Mv8eQ", "title": "Top Stocks 2023", "date": "2023-01-05"}
+      {"url": "https://youtube.com/watch?v=y1EaX9N_oow", "title": "Top Stocks 2023", "date": "2023-12-29"}
   ]},
   "pranjal_kamra": { "name": "Pranjal Kamra", "videos": [] },
   "ankur_warikoo": { "name": "Ankur Warikoo", "videos": [] },
