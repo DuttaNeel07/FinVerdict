@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Syne:wght@400;700&display=swap');
+
+:root {
+  --bg: #050508; --surface: #0d0d14; --border: #1c1c2e;
+  --text: #e8e8f0; --muted: #6b7280;
+  --green: #00ff88; --red: #ff3b3b; --yellow: #ffd60a;
+  --font-mono: 'IBM Plex Mono', monospace;
+  --font-display: 'Syne', sans-serif;
+}
+
+body { background: var(--bg); color: var(--text); font-family: var(--font-display); margin: 0; }
+
+.score-badge { display:inline-flex; align-items:center; gap:5px;
+  font-size:10px; padding:3px 8px; border:1px solid; }
